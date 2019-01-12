@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Elreg_Sender.PcbDoc]
+   Generated File[Elreg_Sender.TXT]
+   Generated File[Elreg_Sender.LDP]
+   Generated File[Elreg_Sender.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:19:34 PM On 1/12/2019
