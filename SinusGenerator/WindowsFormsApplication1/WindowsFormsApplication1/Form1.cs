@@ -18,8 +18,8 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            float startFreq = 275000;// 450000;// 205000;
-            float stopFreq  = 285000;// 460000; // 205000;
+            float startFreq = 255000;// 450000;// 205000;
+            float stopFreq  = 265000;// 460000; // 205000;
 
             int nPingLength_us = 2000;
 
@@ -28,7 +28,7 @@ namespace WindowsFormsApplication1
             int nStepCount = nPingLength_us * 1000 / nSTM_period;
             double dRes;
             int Res;
-            int nAmplitude = 0x25;
+            int nAmplitude = 0xff; //0x13;
 
             String arrayText = "int sinArray [] ={";
 
