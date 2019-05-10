@@ -18,8 +18,8 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            float startFreq = 200000;// 450000;// 205000;
-            float stopFreq  = 200000;// 460000; // 205000;
+            float startFreq = 265000;// 450000;// 205000;
+            float stopFreq  = 265000;// 460000; // 205000;
 
             int nPingLength_us = 100;
 
