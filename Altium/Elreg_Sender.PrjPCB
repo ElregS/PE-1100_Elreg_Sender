@@ -88,23 +88,6 @@ GenerateClassCluster=0
 DocumentUniqueId=ODUEWAMY
 
 [Document4]
-DocumentPath=Elreg_Sender.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MIORJAEA
-
-[Document5]
 DocumentPath=Elreg_Sender_Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -120,6 +103,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ODYPRQTU
+
+[Document5]
+DocumentPath=Elreg_Sender.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MIORJAEA
 
 [Document6]
 DocumentPath=Elreg_Sender.PcbDoc
