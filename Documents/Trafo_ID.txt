@@ -1,0 +1,11 @@
+1.   trafo sa jako debelim primarom (0.55). Ima malo namotaja, mozda 8:80 ili tako nesto
+Nizak paraz. ind. Nije los ali mu otpornik u paraleli ne pomaze
+Imaju 3 layera (sec., primar, sec.)
+
+2. i 3. 
+10:160   (0.5mm + 0.2 (tanka)). Dobro radi, otpronik u paraleli smanjuje selfringig ali 
+ima visoku (230uH) parazitnu. Testirano sa sve 4 nozice od primara kratko spojene
+Imaju 3 layera (sec., primar, sec.)
+
+4. Trafo sa 0.25 na sekundaru + 0.5 na primaru.  10:120. 
+1 layer sa sekundar + 1 oba primara + 2 sekundar  (50 + 30 + 40 ... = 120)
