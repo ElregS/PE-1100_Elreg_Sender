@@ -9,3 +9,6 @@ Imaju 3 layera (sec., primar, sec.)
 
 4. Trafo sa 0.25 na sekundaru + 0.5 na primaru.  10:120. 
 1 layer sa sekundar + 1 oba primara + 2 sekundar  (50 + 30 + 40 ... = 120)
+
+
+5. primar 0.5  10 namotaja + 0.25  167 namotaja
